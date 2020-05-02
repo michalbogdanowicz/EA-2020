@@ -258,10 +258,10 @@
           href="TriggeringRelationship_3f7c370b-4ed0-4994-b80a-a81778c6125b.xml#3f7c370b-4ed0-4994-b80a-a81778c6125b"/>
     </sourceConnections>
     <bounds
-        x="212"
-        y="573"
-        width="120"
-        height="55"/>
+        x="168"
+        y="441"
+        width="164"
+        height="187"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_e92d399d-bf2c-4541-a5e6-705e96a6dbe4.xml#e92d399d-bf2c-4541-a5e6-705e96a6dbe4"/>
