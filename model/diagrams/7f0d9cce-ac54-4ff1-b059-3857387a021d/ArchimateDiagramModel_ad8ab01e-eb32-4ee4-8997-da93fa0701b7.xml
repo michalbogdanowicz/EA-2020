@@ -663,14 +663,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="44b0fbd7-a5bb-4d1c-819c-85c2d1dd75e3">
+      id="dd6ac300-a85d-45c4-8dab-76f038c91663">
     <bounds
-        x="1068"
-        y="137"
+        x="226"
+        y="319"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
-        href="BusinessActor_7d4957c9-40e8-41d2-8d4d-a5fb0c3fc356.xml#7d4957c9-40e8-41d2-8d4d-a5fb0c3fc356"/>
+        href="BusinessActor_90c5c3e1-bccd-4ffd-b4f6-0bcadbf95d9d.xml#90c5c3e1-bccd-4ffd-b4f6-0bcadbf95d9d"/>
   </children>
 </archimate:ArchimateDiagramModel>
