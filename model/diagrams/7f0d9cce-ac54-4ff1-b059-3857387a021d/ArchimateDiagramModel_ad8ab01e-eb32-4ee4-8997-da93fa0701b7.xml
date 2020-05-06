@@ -25,6 +25,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_fe04bec4-1f1a-4437-b705-f9d253f07621.xml#fe04bec4-1f1a-4437-b705-f9d253f07621"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="eebd7a6c-08a0-4ac9-b079-68e33fd61269"
+        source="9c5cb726-5459-4e3f-b165-1c677cfffd3e"
+        target="9d070d05-5e18-45f4-a7d9-e483889a5113">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_890e3cd3-865e-4404-9296-dcb58f4f4346.xml#890e3cd3-865e-4404-9296-dcb58f4f4346"/>
+    </sourceConnections>
     <bounds
         x="420"
         y="1392"
@@ -461,6 +470,15 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_8ab3aa82-9710-45f7-b7b2-3542466cb627.xml#8ab3aa82-9710-45f7-b7b2-3542466cb627"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="2725f87e-8805-411b-9256-2d3d3c7993b9"
+          source="17a51d17-af66-4c84-8e79-f43aac88b7b7"
+          target="9d070d05-5e18-45f4-a7d9-e483889a5113">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_d15b8dc3-d83e-448b-b1fd-65e31e5f7f3b.xml#d15b8dc3-d83e-448b-b1fd-65e31e5f7f3b"/>
+      </sourceConnections>
       <bounds
           x="556"
           y="270"
@@ -504,6 +522,19 @@
       <archimateElement
           xsi:type="archimate:TechnologyInterface"
           href="TechnologyInterface_bc7f69aa-1005-4567-a638-e570738e69f8.xml#bc7f69aa-1005-4567-a638-e570738e69f8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="9d070d05-5e18-45f4-a7d9-e483889a5113"
+        targetConnections="eebd7a6c-08a0-4ac9-b079-68e33fd61269 2725f87e-8805-411b-9256-2d3d3c7993b9">
+      <bounds
+          x="565"
+          y="159"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Artifact"
+          href="Artifact_7d8a3916-87d6-4c49-a5fd-c57eb43bae7c.xml#7d8a3916-87d6-4c49-a5fd-c57eb43bae7c"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
