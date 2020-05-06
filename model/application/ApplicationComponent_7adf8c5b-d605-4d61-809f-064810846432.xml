@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notificaiton System"
+    id="7adf8c5b-d605-4d61-809f-064810846432"
+    documentation="System responsible for realization of the notificaiton service that sends prompt messages to the persons involved"/>

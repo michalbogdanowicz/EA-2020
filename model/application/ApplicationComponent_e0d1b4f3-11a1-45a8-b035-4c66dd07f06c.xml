@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Security System"
+    id="e0d1b4f3-11a1-45a8-b035-4c66dd07f06c"
+    documentation="Handle all the credentials of the people who are suppsoed to access the data."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parsing and Processing"
+    id="078c1826-848f-4546-a1bb-cba1d9b1e237"
+    documentation="For many digital video systems, such as digital libraries and video servers, video parsing is a procedure used  when processing large amounts of video data, especially in real-time.&#xD;&#xA;&#xD;&#xA;Maybe the video is in a format that makes is big and we may need to convert this into a format that small so that we can save on storage space so there is need to pre process this data.&#xD;&#xA;&#xD;&#xA;EG (.m4a, .m4b, .m4p) this is for music files &#xD;&#xA;EG (WAV and MPEG) for video files  "/>

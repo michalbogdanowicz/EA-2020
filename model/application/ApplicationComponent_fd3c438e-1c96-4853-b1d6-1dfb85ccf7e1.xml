@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring and Surveillance System"
+    id="fd3c438e-1c96-4853-b1d6-1dfb85ccf7e1"
+    documentation="Observes, Monitors, Transforms the video captured to an intended output."/>
