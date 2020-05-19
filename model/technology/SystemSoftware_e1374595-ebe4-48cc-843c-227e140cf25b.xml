@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DBMS"
-    id="e1374595-ebe4-48cc-843c-227e140cf25b"/>
+    id="e1374595-ebe4-48cc-843c-227e140cf25b"
+    documentation="DBMS is a collection of components that support data aquisiton, dissemination, storage, maintenance retrieval and formating."/>
