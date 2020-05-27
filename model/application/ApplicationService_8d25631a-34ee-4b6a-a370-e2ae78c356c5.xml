@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parsing and Validation"
+    id="8d25631a-34ee-4b6a-a370-e2ae78c356c5"
+    documentation="Check if what has been recorded is something we may want to store some of this equipement may become damaged over time and so we want to always validate what we record.&#xD;&#xA;&#xD;&#xA;hydrometer, pluviometer, geophone, webcams, microphone"/>

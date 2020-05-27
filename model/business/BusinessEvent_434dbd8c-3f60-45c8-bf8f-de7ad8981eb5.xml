@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="                  &lt;&lt;Threat Event>>                   Contamination"
+    id="434dbd8c-3f60-45c8-bf8f-de7ad8981eb5"
+    documentation="Suseptible to DDOS attack through ip flooding"/>

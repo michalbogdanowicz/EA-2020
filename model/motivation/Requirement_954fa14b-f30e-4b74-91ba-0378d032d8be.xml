@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Control measure>> Build Redundancy Infrastructure "
+    id="954fa14b-f30e-4b74-91ba-0378d032d8be"
+    documentation="Hadoop &#xD;&#xA;Spark"/>

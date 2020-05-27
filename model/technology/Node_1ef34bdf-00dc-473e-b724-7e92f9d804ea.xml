@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall "
+    id="1ef34bdf-00dc-473e-b724-7e92f9d804ea"
+    documentation="Yes,  I am using multiple firewalls to segregate networks of different sensitivity levels."/>
