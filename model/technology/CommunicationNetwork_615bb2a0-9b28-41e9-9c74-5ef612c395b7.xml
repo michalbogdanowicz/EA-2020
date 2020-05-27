@@ -1,5 +1,0 @@
-<archimate:CommunicationNetwork
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LPWAN"
-    id="615bb2a0-9b28-41e9-9c74-5ef612c395b7"
-    documentation="LPWAN lowe power wide are network,  technology is perfectly suited for environmental monitoring, as it can connect devices that need to stay in the field for an extended period of time and send small amounts of data over a long range. Some IoT applications need to transmit only tiny amounts of information—like a sensor that sends data only if it senses smoke in a forest.&#xD;&#xA;&#xD;&#xA;Long battery life. &#xD;&#xA;Low cost. &#xD;&#xA;Long range. "/>
