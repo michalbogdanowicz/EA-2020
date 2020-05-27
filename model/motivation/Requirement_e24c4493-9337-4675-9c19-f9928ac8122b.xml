@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Control measure>>      Install Anti DDOS appliance"
+    id="e24c4493-9337-4675-9c19-f9928ac8122b"
+    documentation="COnfiguring firewall to drop ICMP packets and block dns responses"/>

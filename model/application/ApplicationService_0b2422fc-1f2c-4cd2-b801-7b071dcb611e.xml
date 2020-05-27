@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration &amp; Identification  "
+    id="0b2422fc-1f2c-4cd2-b801-7b071dcb611e"
+    documentation="We dont want unauthorized personnels to access this data, so we configure our system to identify the administrators."/>

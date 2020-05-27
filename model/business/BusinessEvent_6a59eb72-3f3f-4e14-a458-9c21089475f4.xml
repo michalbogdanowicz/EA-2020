@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="                  &lt;&lt;Threat>>                     Unsecured Channel"
+    id="6a59eb72-3f3f-4e14-a458-9c21089475f4"
+    documentation="Suseptible to DDOS attack through ip flooding"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Control measure>> Firewall Reconfiguration"
+    id="453c92ca-ad06-4659-a6e3-3af7a99c1eb2"
+    documentation="COnfiguring firewall to drop ICMP packets and block dns responses"/>

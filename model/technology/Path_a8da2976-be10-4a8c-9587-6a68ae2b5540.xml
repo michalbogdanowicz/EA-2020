@@ -1,0 +1,7 @@
+<archimate:Path
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;AssetAtRisk>>     Data File Transmission"
+    id="a8da2976-be10-4a8c-9587-6a68ae2b5540"
+    documentation="Media FIles &#xD;&#xA;Sensor (changes in the temperature, magnetic field, field intensity, urrent and voltage)&#xD;&#xA;Thats why I choose to call it data file">
+  <properties/>
+</archimate:Path>
