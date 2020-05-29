@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="              &lt;&lt;LossEvent>>           Collateral Damage from disruption of service"
-    id="0e669039-1921-4d22-a758-13a44c599d67"/>
+    name="              &lt;&lt;LossEvent>>           Collateral Damage from disruption of service for a week"
+    id="0e669039-1921-4d22-a758-13a44c599d67"
+    documentation="This happens for one week, then suddenly there is a hazard that occurs."/>
