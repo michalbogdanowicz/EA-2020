@@ -17,8 +17,8 @@
           href="InfluenceRelationship_8ee1fe0d-58e1-47d6-99ec-72db82b39fec.xml#8ee1fe0d-58e1-47d6-99ec-72db82b39fec"/>
     </sourceConnections>
     <bounds
-        x="753"
-        y="376"
+        x="564"
+        y="156"
         width="318"
         height="67"/>
     <archimateElement
@@ -47,8 +47,8 @@
           href="AssociationRelationship_ab569564-4a58-47b9-8d0e-18d9a0a66173.xml#ab569564-4a58-47b9-8d0e-18d9a0a66173"/>
     </sourceConnections>
     <bounds
-        x="685"
-        y="472"
+        x="496"
+        y="252"
         width="120"
         height="55"/>
     <archimateElement
@@ -77,8 +77,8 @@
           href="AssociationRelationship_b44cb612-01d6-498b-b133-f746c01363b0.xml#b44cb612-01d6-498b-b133-f746c01363b0"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="472"
+        x="663"
+        y="252"
         width="120"
         height="55"/>
     <archimateElement
@@ -107,8 +107,8 @@
           href="AssociationRelationship_d062cc20-552d-4f8d-8ce7-cd1036b3ed0c.xml#d062cc20-552d-4f8d-8ce7-cd1036b3ed0c"/>
     </sourceConnections>
     <bounds
-        x="1017"
-        y="472"
+        x="828"
+        y="252"
         width="120"
         height="55"/>
     <archimateElement
@@ -129,8 +129,8 @@
           href="InfluenceRelationship_4edd2f2c-e888-4c5a-868b-7478a7ddf6fd.xml#4edd2f2c-e888-4c5a-868b-7478a7ddf6fd"/>
     </sourceConnections>
     <bounds
-        x="429"
-        y="256"
+        x="240"
+        y="36"
         width="985"
         height="85"/>
     <archimateElement
@@ -142,8 +142,8 @@
       id="611bf25e-63a8-4e9b-a161-12056bd5277f"
       targetConnections="007b3e20-0d02-4de9-9648-043aa4114b95">
     <bounds
-        x="273"
-        y="265"
+        x="84"
+        y="45"
         width="109"
         height="67"/>
     <archimateElement
@@ -155,8 +155,8 @@
       id="7292c70e-694c-4f8c-ba9a-7639009a8157"
       targetConnections="02523c60-95f9-464b-991b-c637cb8c0a48 18946aab-4b29-496b-a5cc-da9a3d8d871b">
     <bounds
-        x="685"
-        y="562"
+        x="496"
+        y="342"
         width="120"
         height="55"/>
     <archimateElement
@@ -168,8 +168,8 @@
       id="150535ed-0e38-41b7-81f4-92b188929041"
       targetConnections="f1b712ba-54ea-4980-8193-60b8380d2863 149e3aee-c1a3-4eec-a284-6bf3cdc2de1d">
     <bounds
-        x="852"
-        y="562"
+        x="663"
+        y="342"
         width="120"
         height="55"/>
     <archimateElement
@@ -181,8 +181,8 @@
       id="804915b0-271c-4d98-b116-b4abe213c864"
       targetConnections="b58a86d6-bd74-4ca3-b9c6-e60da25d13f7 407117d7-c2fc-4e7c-b49a-56b43463bf75">
     <bounds
-        x="1017"
-        y="562"
+        x="828"
+        y="342"
         width="120"
         height="55"/>
     <archimateElement
@@ -203,8 +203,8 @@
           href="RealizationRelationship_671f8845-bca6-4410-be04-1091c26d9a4c.xml#671f8845-bca6-4410-be04-1091c26d9a4c"/>
     </sourceConnections>
     <bounds
-        x="685"
-        y="658"
+        x="496"
+        y="438"
         width="120"
         height="55"/>
     <archimateElement
@@ -225,8 +225,8 @@
           href="RealizationRelationship_a236a1d5-229a-4448-802a-b7a7e8661f3e.xml#a236a1d5-229a-4448-802a-b7a7e8661f3e"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="658"
+        x="663"
+        y="438"
         width="120"
         height="55"/>
     <archimateElement
@@ -247,8 +247,8 @@
           href="RealizationRelationship_bbc9a1cd-d98c-4a9c-b181-b5ca43496922.xml#bbc9a1cd-d98c-4a9c-b181-b5ca43496922"/>
     </sourceConnections>
     <bounds
-        x="1017"
-        y="658"
+        x="828"
+        y="438"
         width="120"
         height="55"/>
     <archimateElement
@@ -304,8 +304,8 @@
           href="InfluenceRelationship_a06ed533-ea65-4cce-96d5-72507bb33618.xml#a06ed533-ea65-4cce-96d5-72507bb33618"/>
     </sourceConnections>
     <bounds
-        x="453"
-        y="772"
+        x="264"
+        y="552"
         width="973"
         height="55"/>
     <archimateElement
@@ -326,8 +326,8 @@
           href="InfluenceRelationship_6b44027a-87ea-4a12-9732-256c9c270c8b.xml#6b44027a-87ea-4a12-9732-256c9c270c8b"/>
     </sourceConnections>
     <bounds
-        x="429"
-        y="378"
+        x="240"
+        y="158"
         width="213"
         height="64"/>
     <archimateElement
@@ -348,8 +348,8 @@
           href="AssociationRelationship_dc2be978-7460-45bf-8476-eccb273557ab.xml#dc2be978-7460-45bf-8476-eccb273557ab"/>
     </sourceConnections>
     <bounds
-        x="465"
-        y="471"
+        x="276"
+        y="251"
         width="125"
         height="56"/>
     <archimateElement
@@ -370,8 +370,8 @@
           href="AssociationRelationship_7b1637a8-ff4b-4606-ab08-16530adf8905.xml#7b1637a8-ff4b-4606-ab08-16530adf8905"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="561"
+        x="279"
+        y="341"
         width="120"
         height="55"/>
     <archimateElement
@@ -392,8 +392,8 @@
           href="RealizationRelationship_823f3af6-39eb-4b05-99c0-445301929012.xml#823f3af6-39eb-4b05-99c0-445301929012"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="657"
+        x="279"
+        y="437"
         width="120"
         height="55"/>
     <archimateElement
@@ -413,8 +413,8 @@
           href="InfluenceRelationship_3ee03a8f-14ee-44fd-8daf-90a3b3a345e6.xml#3ee03a8f-14ee-44fd-8daf-90a3b3a345e6"/>
     </sourceConnections>
     <bounds
-        x="273"
-        y="658"
+        x="84"
+        y="438"
         width="120"
         height="55"/>
     <archimateElement
@@ -435,8 +435,8 @@
           href="InfluenceRelationship_0c896812-2e48-48f2-832f-d6d4aab3bb21.xml#0c896812-2e48-48f2-832f-d6d4aab3bb21"/>
     </sourceConnections>
     <bounds
-        x="1197"
-        y="376"
+        x="1008"
+        y="156"
         width="217"
         height="67"/>
     <archimateElement
@@ -457,8 +457,8 @@
           href="AssociationRelationship_c182812d-5625-4816-be10-94374ba55c1c.xml#c182812d-5625-4816-be10-94374ba55c1c"/>
     </sourceConnections>
     <bounds
-        x="1246"
-        y="472"
+        x="1057"
+        y="252"
         width="120"
         height="55"/>
     <archimateElement
@@ -479,8 +479,8 @@
           href="AssociationRelationship_a59d514e-673c-4d0a-890c-22121b395b35.xml#a59d514e-673c-4d0a-890c-22121b395b35"/>
     </sourceConnections>
     <bounds
-        x="1246"
-        y="562"
+        x="1057"
+        y="342"
         width="120"
         height="55"/>
     <archimateElement
@@ -501,8 +501,8 @@
           href="RealizationRelationship_f8609d44-7159-465f-9b32-41c5a23898af.xml#f8609d44-7159-465f-9b32-41c5a23898af"/>
     </sourceConnections>
     <bounds
-        x="1246"
-        y="658"
+        x="1057"
+        y="438"
         width="120"
         height="55"/>
     <archimateElement
