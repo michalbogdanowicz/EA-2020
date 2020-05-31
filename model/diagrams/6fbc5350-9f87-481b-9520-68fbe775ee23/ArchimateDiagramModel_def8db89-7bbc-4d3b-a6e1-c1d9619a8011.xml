@@ -455,7 +455,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="51d06716-f9aa-4785-8ba3-6a1ffb7a4547"
-      targetConnections="4a21e1a7-2723-4328-b6c7-f07f10882150 0bec7998-a8ba-4b26-9a21-192b9fa7b378">
+      targetConnections="0bec7998-a8ba-4b26-9a21-192b9fa7b378">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7d2fd10b-5d51-4260-b1c8-c0711692b876"
@@ -478,15 +478,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="69427c49-081d-4d0e-9c1f-516bcf12a810"
       targetConnections="3547a4a8-0cf9-498b-9236-642c609a9906">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="71f20d53-9e2a-47de-9841-4ef61558fae5"
-        source="69427c49-081d-4d0e-9c1f-516bcf12a810"
-        target="d35871a6-8d99-489e-a556-fc0b32365ffd">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_64945e10-09f4-479c-a74b-20c6bc0b7653.xml#64945e10-09f4-479c-a74b-20c6bc0b7653"/>
-    </sourceConnections>
     <bounds
         x="1063"
         y="438"
@@ -495,28 +486,6 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_f0a09c57-6555-430d-a86e-cd8d1962f73c.xml#f0a09c57-6555-430d-a86e-cd8d1962f73c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="d35871a6-8d99-489e-a556-fc0b32365ffd"
-      targetConnections="71f20d53-9e2a-47de-9841-4ef61558fae5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4a21e1a7-2723-4328-b6c7-f07f10882150"
-        source="d35871a6-8d99-489e-a556-fc0b32365ffd"
-        target="51d06716-f9aa-4785-8ba3-6a1ffb7a4547">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_98a5129e-4b50-4401-92ea-4fc340c68233.xml#98a5129e-4b50-4401-92ea-4fc340c68233"/>
-    </sourceConnections>
-    <bounds
-        x="984"
-        y="338"
-        width="277"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_e3cbb6cf-9fbc-435b-96ed-e5e1b883c285.xml#e3cbb6cf-9fbc-435b-96ed-e5e1b883c285"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
