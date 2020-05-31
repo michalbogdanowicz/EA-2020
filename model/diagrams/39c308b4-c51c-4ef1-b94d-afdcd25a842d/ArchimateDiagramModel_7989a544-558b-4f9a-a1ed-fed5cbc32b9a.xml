@@ -298,11 +298,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="e24fa3cf-3520-4254-bb59-ff34f321171a"
       textAlignment="1"
-      content="The ESXI hosts setup and configuration, Appliances setup and configuration and application testing we can merge this because they are all transitions. Then I define the tranistion above.">
+      content="Not so clear if we all of our reasons for change should be Data center. &#xD;&#xA;&#xD;&#xA;For example I used Cloud Service which is quite the opposite to Datacenters, I am not so sure if we all have to have the same reason for change but incase that is the case I did a model one with datacenter.  Just need to clarify this. &#xD;&#xA;&#xD;&#xA;I think with the model below everyone can express their reason for change and serves as a general purpose, just need to define it at an individual process level like if I use the model below I can then define above the hazard process and then model what I want to change which is a cloud service.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="96"
-        y="360"
-        width="217"
-        height="97"/>
+        y="336"
+        width="277"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
