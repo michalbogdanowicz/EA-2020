@@ -474,12 +474,16 @@
         id="f97ccc51-878a-4fff-b468-5fac24f50f98"
         source="e7087606-7c98-46e3-b699-7371b86806e5"
         target="0cc3d70e-13a5-4cdb-b67b-2b931c5abcd4">
+      <bendpoints
+          startY="-78"
+          endX="270"
+          endY="30"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_d127eb1c-30ed-4e64-aa73-71822253abfa.xml#d127eb1c-30ed-4e64-aa73-71822253abfa"/>
     </sourceConnections>
     <bounds
-        x="1152"
+        x="1140"
         y="363"
         width="169"
         height="55"/>
