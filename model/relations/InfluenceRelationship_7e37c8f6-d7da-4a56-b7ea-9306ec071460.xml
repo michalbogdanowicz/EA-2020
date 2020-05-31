@@ -1,7 +1,8 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="7e37c8f6-d7da-4a56-b7ea-9306ec071460">
+    id="7e37c8f6-d7da-4a56-b7ea-9306ec071460"
+    strength="+">
   <source
       xsi:type="archimate:Constraint"
       href="Constraint_0af3e025-f387-4912-bc94-54fa8e7d8f19.xml#0af3e025-f387-4912-bc94-54fa8e7d8f19"/>
