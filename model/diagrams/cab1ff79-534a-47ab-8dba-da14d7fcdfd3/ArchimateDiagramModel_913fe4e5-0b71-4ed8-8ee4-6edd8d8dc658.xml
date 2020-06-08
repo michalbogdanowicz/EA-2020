@@ -602,9 +602,9 @@
           id="282e716a-226d-452f-abba-8231279f85bf"
           targetConnections="3acc45fd-b9d1-4f38-93c8-e02c5c88ce1f">
         <bounds
-            x="30"
+            x="36"
             y="132"
-            width="127"
+            width="121"
             height="73"/>
         <archimateElement
             xsi:type="archimate:Node"
@@ -615,9 +615,9 @@
           id="10a330c3-8739-46c3-9853-c407e1df9668"
           targetConnections="d527e879-3b35-4f41-8d1f-bb6bca0aa496">
         <bounds
-            x="193"
+            x="192"
             y="132"
-            width="120"
+            width="121"
             height="73"/>
         <archimateElement
             xsi:type="archimate:Node"
