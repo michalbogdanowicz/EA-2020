@@ -1,5 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="              &lt;&lt;Loss Event>>                     Resource Unreachable          "
+    name="              &lt;&lt;ThreatEvent>>                     Resource become unreachable and unresponsive         "
     id="d81efdda-5363-4157-897d-f72283187038"
     documentation="Suseptible to DDOS attack through ip flooding"/>
