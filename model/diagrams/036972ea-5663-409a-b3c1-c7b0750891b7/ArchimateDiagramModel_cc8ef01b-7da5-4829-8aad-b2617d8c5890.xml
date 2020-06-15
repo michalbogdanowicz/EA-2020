@@ -1014,18 +1014,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="698b4cfe-0604-41dd-98b9-2f8f0567d696">
-    <bounds
-        x="1572"
-        y="816"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_13d17273-5e6a-43f5-976c-3333d717a29b.xml#13d17273-5e6a-43f5-976c-3333d717a29b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="36f77bdd-49b7-454b-9f5b-9e04721bfe10"
       targetConnections="4d233e1d-aa3a-4fc9-9e5d-dad06463e4c8 ef12766f-5958-4683-b4d1-9cc2be3f6079">
     <sourceConnections
